@@ -48,7 +48,7 @@ function SignUp() {
   }, 2000); // 2-second delay
 }
 
-document.getElementById("signupForm").addEventListener("submit", SignUp);
+document.getElementById("signupForm").addEventListener("click", SignUp);
 
 // Collects the form data when the "Create Account" button is clicked.
 // Creates a user object containing the collected data.
