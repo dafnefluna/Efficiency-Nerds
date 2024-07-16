@@ -48,6 +48,8 @@ function SignUp() {
   }, 2000); // 2-second delay
 }
 
+document.getElementById("signupForm").addEventListener("submit", SignUp);
+
 // Collects the form data when the "Create Account" button is clicked.
 // Creates a user object containing the collected data.
 // Retrieves the existing user data from local storage (or initializes an empty array if no data exists).
