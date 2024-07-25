@@ -6,6 +6,8 @@ Our group was interested in creating an app that helped users accomplish or meet
 
 Throughout the process, we honed in a lot of our javascript and CSS/Bootstrap skills primarily how to effectively use GitHub and work as a team. We learned about what it’s like working with code for extended periods and the strong need to figure out the broken code.
 
+## Deployed Link
+
 
 ## Installation
 
@@ -44,14 +46,9 @@ The app will open in your default web browser and be ready to use.
 -From the profile page, you can add a Profile Image, and you will see your informatoin you entered from the Landing Page.
 -In the Efficiency Nerd Tools Section, you have a ToDo List that will generate Tasks you write in the box.
 -After you enter your tools, you can generate a Random Task to Work on. 
--When you have completed a task, you click "Done" button next to your completed task and the task will be removed from your list. ```md
-    ![alt text](assets/images/EF-TodoExample.png)
-    ```
+-When you have completed a task, you click "Done" button next to your completed task and the task will be removed from your list. 
 -At the bottom of the page, you can set a 20 minute timer to work on your tasks. 
 -If you complete the task before your timer runs out, click "Stop Timer" and there is a Modal that pops up with an affirmation that you finished your task!
-   ```md
-    ![alt text](assets/images/EF-TimerExample.png)
-    ```
 
 ## Credits
 
